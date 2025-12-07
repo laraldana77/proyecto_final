@@ -69,6 +69,6 @@ git clone https://github.com/laraldana77/tp_integrador
 4. Ejecuta el programa
    python main.py
 
-##👤 Autora
+👤 Autora
 
 Proyecto desarrollado por Lara Aldana como parte de una práctica de programación en Python
